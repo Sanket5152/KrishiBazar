@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sesso",
+				"session_start"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"AL",
+				"align-items"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"P",
+				"Please"
+			],
+			[
+				"l",
+				"lettersOnly"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Pa",
+				"Password"
+			],
+			[
+				"A",
+				"Address"
+			],
+			[
+				"car",
+				"caret"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"mi",
+				"minp"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"n",
+				"non"
+			],
+			[
+				"f",
+				"fgetcsv"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"process",
+				"processing"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"fiel",
+				"filename"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"ex",
+				"excelfile"
+			],
+			[
+				"btn",
+				"btnimport"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/rikin/viewaddproduct.php",
+		"/C/xampp/htdocs/rikin/viewproduct.php",
+		"/C/xampp/htdocs/rikin/addproductprice1.php",
+		"/C/xampp/htdocs/kribbaa/apupdate.php",
+		"/C/xampp/htdocs/kribbaa/head.php",
+		"/C/xampp/htdocs/kribbaa/adhead.php",
+		"/C/xampp/htdocs/kribbaa/apedit.php",
+		"/C/xampp/htdocs/kribbaa/adminlogin.php",
+		"/C/xampp/htdocs/kribbaa/addvat.php",
+		"/C/xampp/htdocs/kribbaa/addpro.php",
+		"/C/xampp/htdocs/kribbaa/adminmain.php",
+		"/C/xampp/htdocs/abc/css/style.css",
+		"/C/xampp/htdocs/krishib/kkp.php",
+		"/C/xampp/htdocs/krishib/footer.php",
+		"/C/xampp/htdocs/krishib/contact.php",
+		"/C/xampp/htdocs/krishib/freges1.php",
+		"/C/xampp/htdocs/krishib/kk.php",
+		"/C/xampp/htdocs/krishib/freges.php",
+		"/C/xampp/htdocs/krishib/js/validate.js",
+		"/C/xampp/htdocs/krishib/formtest.php",
+		"/C/xampp/htdocs/krishib/gallery.html",
+		"/C/xampp/htdocs/krishib/flogin.php",
+		"/C/xampp/htdocs/krishib/index.php",
+		"/C/xampp/htdocs/krishib/abc.php",
+		"/C/xampp/htdocs/krishib/farmerregistrati.php",
+		"/C/xampp/htdocs/krishib/try.php",
+		"/C/xampp/htdocs/krishib/try1.php",
+		"/C/xampp/htdocs/agmarktest/inedex.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"apcomma",
+			"<",
+			"type",
+			"<!DOCTYPE HTML>\n<html>\n<head>\n<title>Krishi Bazar</title>\n<link href=\"css/bootstrap.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n<script src=\"js/jquery-1.11.0.min.js\"></script>\n<!-- Custom Theme files -->\n<link href=\"css/style.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\"/>\n<!-- Custom Theme files -->\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<script type=\"application/x-javascript\"> addEventListener(\"load\", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }>\n</script>\n<meta name=\"keywords\" content=\"Agrom Responsive web template, Bootstrap Web Templates, Flat Web Templates, AndriodCompatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design\" />\n<!--Google Fonts-->\n<!-- start-smoth-scrolling -->\n<script type=\"text/javascript\" src=\"js/validate.js\"></script>\n<script type=\"text/javascript\" src=\"js/move-top.js\"></script>\n<script type=\"text/javascript\" src=\"js/easing.js\"></script>\n<script type=\"text/javascript\" src=\"js/easing.js\"></script>\n\t<script type=\"text/javascript\">\n\t\t\tjQuery(document).ready(function($) {\n\t\t\t\t$(\".scroll\").click(function(event){\t\t\n\t\t\t\t\tevent.preventDefault();\n\t\t\t\t\t$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);\n\t\t\t\t});\n\t\t\t});\n</script>\n<!-- //end-smoth-scrolling -->\n<script src=\"js/menu_jquery.js\"></script>\n\n<!---pop-up-box---->\n\t\t\t\t\t<link href=\"css/popuo-box.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\"/>\n\t\t\t\t\t<script src=\"js/jquery.magnific-popup.js\" type=\"text/javascript\"></script>\n\t\t\t\t\t<!---//pop-up-box---->\n\t\t\t\t\t <script>\n\t\t\t\t\t\t$(document).ready(function() {\n\t\t\t\t\t\t$('.popup-with-zoom-anim').magnificPopup({\n\t\t\t\t\t\t\ttype: 'inline',\n\t\t\t\t\t\t\tfixedContentPos: false,\n\t\t\t\t\t\t\tfixedBgPos: true,\n\t\t\t\t\t\t\toverflowY: 'auto',\n\t\t\t\t\t\t\tcloseBtnInside: true,\n\t\t\t\t\t\t\tpreloader: false,\n\t\t\t\t\t\t\tmidClick: true,\n\t\t\t\t\t\t\tremovalDelay: 300,\n\t\t\t\t\t\t\tmainClass: 'my-mfp-zoom-in'\n\t\t\t\t\t\t});\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t});\n\t\t\t\t</script>\t\t\n</head>\n<style type=\"text/css\">\n\t.dropbtn {\n    background-color: #000080;\n    color: white;\n    padding: 10px;\n    font-size: 16px;\n    border: none;\n    border-radius:8px;\n    cursor: pointer;\n}\n\n.dropdown {\n    position: relative;\n    display: inline-block;\n}\n\n.dropdown-content {\n    display: none;\n    position: absolute;\n    background-color: #f9f9f9;\n    min-width: 160px;\n    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);\n    z-index: 1;\n}\n\n.dropdown-content a {\n    color: black;\n    padding: 20px 20px;\n    text-decoration: none;\n    display: block;\n}\n\n.dropdown-content a:hover {background-color: green}\n\n.dropdown:hover .dropdown-content {\n    display: block;\n}\n\n.dropdown:hover .dropbtn {\n    background-color: black;\n}\n\n</style>\n<body>\n<!--header start here-->\n<div class=\"header\">\n\t<div class=\"container\">\n\t\t\n\t             \n\t\t\t   <div class=\"header-right\" style=\"align-content:center;\">\n\t\t\t\t  \n\t\t\t\t   \t   <h1><a href=\"index.php\">Krishibazar</a></h1>\n\t\t\t\t</div>\n\n\t\t\n</div>\t\n\t\n\t\t\t\t  \n\t\t    <div class=\"clearfix\"> </div>\n\t     </div>\n\t     <div class=\"clearfix\"> </div>\n     </div>\n   </div>\n</div>\n<!--header end here-->\n<!--top nav start here-->\n<div class=\"top-navg-main\">\n\t<div class=\"container\" style=\"  width: 99%;\n    height: 50px;\n  \n    background-color: lightgray;\n     margin-bottom: 25px;\n    box-shadow: 10px 10px 5px #888488;\">\n\t    <div class=\"top-navg \" style=\"float:left;\">\n\t    \t           <span class=\"menu\"> <img src=\"images/icon.png\" alt=\"\"/></span>\n\t\t\t\t<ul class=\"res\">\n\t\t\t\t<li> Krishi Bazar LOGO </li>\n\t\t\t\t    <li><a href=\"index.php\" class=\"active hvr-sweep-to-bottom\">Home</a></li> \n\t\t\t\t\t<li><a class=\"hvr-sweep-to-bottom\" href=\"about.html\">About Us</a></li> \n\t\t\t\t\t<li><a class=\"hvr-sweep-to-bottom\" href=\"about.html\">About Us</a></li> \n\n\t\t\t\t\t</ul>\n\t\t\t\t  \n\t\t\t\t\t</div>\t\n\t\t\t\t<div class=\"abc\" style=\"float: right;padding-right:100px; padding-top: 5px;padding-bottom: 5px\">\n\t\t\t\n\t\t\t\t<div class=\"dropdown\" >\n  \t\t\t\t\t\t<button class=\"dropbtn\"> Profile </button>\n\t\t\t\t\t\t\t  <div class=\"dropdown-content\">\n\t\t\t\t\t\t\t  <a class=\"hvr-bounce-to-bottom\"  href=\"changepass.php\"><span class=\"glyphicon glyphicon-wrench\" style=\"font-size: 20px\"> </span>Change Password</a>\n\t\t\t\t\t\t\t  <a class=\"hvr-bounce-to-bottom\" href=\"updateprofile.php\"><span class=\"glyphicon glyphicon-edit\" style=\"font-size: 20px\"> Update Profile</span> </a>\n\t\t\t\t\t\t\t  <a class=\"hvr-bounce-to-bottom\" href=\"Adminlogout.php\"><span class=\"glyphicon glyphicon-off\" style=\"font-size: 20px\"> Logout</span></a>\n\n\t\t\t\t\t\t\t    \t\t\t\t\t  </div>\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t<!-- script-for-menu -->\n\t\n\t\t\t\t  \n\n\t\t\t\t \t\t\n\t\t\t\t\t<!-- script-for-menu -->\n\t\t\t\t\t\t <script>\n\t\t\t\t\t\t   $( \"span.menu\" ).click(function() {\n\t\t\t\t\t\t\t $( \"ul.res\" ).slideToggle( 300, function() {\n\t\t\t\t\t\t\t // Animation complete.\n\t\t\t\t\t\t\t  });\n\t\t\t\t\t\t\t });\n\t\t\t\t\t\t</script>\n\t\t        <!-- /script-for-menu -->\n\t\t        \n\t\t\t\t\t\t\n\t\t\t\t   \n\t\t   </div>\n\t </div>\n",
+			"t",
+			"apmc_details",
+			"footer",
+			" <li class=\"ripple\"><a class=\"tree-toggle nav-header\">\n                    <span class=\"fa fa-pencil-square\"></span> Ui Elements  <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"color.html\">Color</a></li>\n                        <li><a href=\"weather.html\">Weather</a></li>\n                        <li><a href=\"typography.html\">Typography</a></li>\n                        <li><a href=\"icons.html\">Icons</a></li>\n                        <li><a href=\"buttons.html\">Buttons</a></li>\n                        <li><a href=\"media.html\">Media</a></li>\n                        <li><a href=\"panels.html\">Panels & Tabs</a></li>\n                        <li><a href=\"notifications.html\">Notifications & Tooltip</a></li>\n                        <li><a href=\"badges.html\">Badges & Label</a></li>\n                        <li><a href=\"progress.html\">Progress</a></li>\n                        <li><a href=\"sliders.html\">Sliders</a></li>\n                        <li><a href=\"timeline.html\">Timeline</a></li>\n                        <li><a href=\"modal.html\">Modals</a></li>\n                      </ul>\n                    </li>\n                    <li class=\"ripple\"><a class=\"tree-toggle nav-header\"><span class=\"fa fa-check-square-o\"></span> Forms  <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"formelement.html\">Form Element</a></li>\n                        <li><a href=\"#\">Wizard</a></li>\n                        <li><a href=\"#\">File Upload</a></li>\n                        <li><a href=\"#\">Text Editor</a></li>\n                      </ul>\n                    </li>\n                    <li class=\"ripple\"><a class=\"tree-toggle nav-header\"><span class=\"fa fa-table\"></span> Tables  <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"datatables.html\">Data Tables</a></li>\n                        <li><a href=\"handsontable.html\">handsontable</a></li>\n                        <li><a href=\"tablestatic.html\">Static</a></li>\n                      </ul>\n                    </li>\n                    <li class=\"ripple\"><a href=\"calendar.html\"><span class=\"fa fa-calendar-o\"></span>Calendar</a></li>\n                    <li class=\"ripple\"><a class=\"tree-toggle nav-header\"><span class=\"fa fa-envelope-o\"></span> Mail <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"mail-box.html\">Inbox</a></li>\n                        <li><a href=\"compose-mail.html\">Compose Mail</a></li>\n                        <li><a href=\"view-mail.html\">View Mail</a></li>\n                      </ul>\n                    </li>\n                    <li class=\"ripple\"><a class=\"tree-toggle nav-header\"><span class=\"fa fa-file-code-o\"></span> Pages  <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"forgotpass.html\">Forgot Password</a></li>\n                        <li><a href=\"login.html\">SignIn</a></li>\n                        <li><a href=\"reg.html\">SignUp</a></li>\n                        <li><a href=\"article-v1.html\">Article v1</a></li>\n                        <li><a href=\"search-v1.html\">Search Result v1</a></li>\n                        <li><a href=\"productgrid.html\">Product Grid</a></li>\n                        <li><a href=\"profile-v1.html\">Profile v1</a></li>\n                        <li><a href=\"invoice-v1.html\">Invoice v1</a></li>\n                      </ul>\n                    </li>\n                    <li class=\"ripple\"><a class=\"tree-toggle nav-header\"><span class=\"fa \"></span> MultiLevel  <span class=\"fa-angle-right fa right-arrow text-right\"></span> </a>\n                      <ul class=\"nav nav-list tree\">\n                        <li><a href=\"view-mail.html\">Level 1</a></li>\n                        <li><a href=\"view-mail.html\">Level 1</a></li>\n                        <li class=\"ripple\">\n                          <a class=\"sub-tree-toggle nav-header\">\n                            <span class=\"fa fa-envelope-o\"></span> Level 1\n                            <span class=\"fa-angle-right fa right-arrow text-right\"></span>\n                          </a>\n                          <ul class=\"nav nav-list sub-tree\">\n                            <li><a href=\"mail-box.html\">Level 2</a></li>\n                            <li><a href=\"compose-mail.html\">Level 2</a></li>\n                            <li><a href=\"view-mail.html\">Level 2</a></li>\n                          </ul>\n                        </li>\n                      </ul>",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "freges.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
